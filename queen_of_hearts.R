@@ -1,6 +1,9 @@
 # Heart shaped to one's content
 # Goal: Build code to draw a heart shape according to one's wishes :)
-# Basic plot adapted from: https://stackoverflow.com/questions/8082429/plot-a-heart-in-r by commenter 42-
+# Current progress + next steps: 
+# 1. Adapted basic plot from: https://stackoverflow.com/questions/8082429/plot-a-heart-in-r by commenter 42-
+# 2. Thinking of ways to be able to make this modifiable
+# 3. Try plotting other formulas?
 
 # Blank plot
 plot.new()
